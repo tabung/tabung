@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tabung
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Go Language
-- 💞️ I’m looking to collaborate on Go
+- 👀 I’m interested in Sofware Enginering
+- 🌱 I’m currently learning Javascript For Full Stack Developer
+- 💞️ I’m looking to collaborate on Javascript
 - 📫 How to reach me 
 
 <!---
